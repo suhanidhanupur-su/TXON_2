@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1001",
+    "name": "Aarav Sharma",
+    "course": "Computer Science & Engineering",
+    "email": "aarav.sharma@example.com"
+  },
+  {
+    "id": "1002",
+    "name": "Priya Patel",
+    "course": "Information Technology",
+    "email": "priya.patel@example.com"
+  },
+  {
+    "id": "1003",
+    "name": "Rohan Verma",
+    "course": "Data Science & AI",
+    "email": "rohan.verma@example.com"
+  },
+  {
+    "id": "1004",
+    "name": "Ananya Iyer",
+    "course": "Electronics & Communication",
+    "email": "ananya.iyer@example.com"
+  },
+  {
+    "id": "1795371376757",
+    "name": "Sneha Kulkarni",
+    "course": "Cyber Security",
+    "email": "sneha.kulkarni@example.com"
+  }
+]
